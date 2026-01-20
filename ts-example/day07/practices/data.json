@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 18,
+    "sex": "female",
+    "address": {
+      "country": "Thailand",
+      "province": "Bangkok"
+    },
+    "points": [
+      { "subject": "Math", "point": 85 },
+      { "subject": "Programming", "point": 92 },
+      { "subject": "English", "point": 78 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "age": 19,
+    "sex": "male",
+    "address": {
+      "country": "Thailand",
+      "province": "Chiang Mai"
+    },
+    "points": [
+      { "subject": "Math", "point": 70 },
+      { "subject": "Programming", "point": 88 },
+      { "subject": "English", "point": 75 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "age": 18,
+    "sex": "male",
+    "address": {
+      "country": "Thailand",
+      "province": "Khon Kaen"
+    },
+    "points": [
+      { "subject": "Math", "point": 60 },
+      { "subject": "Programming", "point": 65 },
+      { "subject": "English", "point": 68 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Diana",
+    "age": 20,
+    "sex": "female",
+    "address": {
+      "country": "Thailand",
+      "province": "Phuket"
+    },
+    "points": [
+      { "subject": "Math", "point": 90 },
+      { "subject": "Programming", "point": 95 },
+      { "subject": "English", "point": 88 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ethan",
+    "age": 19,
+    "sex": "male",
+    "address": {
+      "country": "Thailand",
+      "province": "Chonburi"
+    },
+    "points": [
+      { "subject": "Math", "point": 82 },
+      { "subject": "Programming", "point": 79 },
+      { "subject": "English", "point": 80 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Fiona",
+    "age": 18,
+    "sex": "female",
+    "address": {
+      "country": "Thailand",
+      "province": "Bangkok"
+    },
+    "points": [
+      { "subject": "Math", "point": 88 },
+      { "subject": "Programming", "point": 90 },
+      { "subject": "English", "point": 84 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "George",
+    "age": 21,
+    "sex": "male",
+    "address": {
+      "country": "Thailand",
+      "province": "Nakhon Ratchasima"
+    },
+    "points": [
+      { "subject": "Math", "point": 75 },
+      { "subject": "Programming", "point": 80 },
+      { "subject": "English", "point": 70 }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hannah",
+    "age": 20,
+    "sex": "female",
+    "address": {
+      "country": "Thailand",
+      "province": "Chiang Rai"
+    },
+    "points": [
+      { "subject": "Math", "point": 92 },
+      { "subject": "Programming", "point": 89 },
+      { "subject": "English", "point": 91 }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ivan",
+    "age": 19,
+    "sex": "male",
+    "address": {
+      "country": "Thailand",
+      "province": "Songkhla"
+    },
+    "points": [
+      { "subject": "Math", "point": 68 },
+      { "subject": "Programming", "point": 72 },
+      { "subject": "English", "point": 74 }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Julia",
+    "age": 21,
+    "sex": "female",
+    "address": {
+      "country": "Thailand",
+      "province": "Udon Thani"
+    },
+    "points": [
+      { "subject": "Math", "point": 86 },
+      { "subject": "Programming", "point": 91 },
+      { "subject": "English", "point": 89 }
+    ]
+  }
+]
